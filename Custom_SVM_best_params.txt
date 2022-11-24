@@ -1,0 +1,1 @@
+Custom_SVM(C=0.001, max_iter=150)
